@@ -8,4 +8,4 @@ Some specific React concepts this tutorial teaches are:
 * Creating custom hooks for consuming context and synchronizing with external data
 * Using unauthenticated and authenticated app components based on the user's authentication state
 
-# chatbot-react-firebase
+
